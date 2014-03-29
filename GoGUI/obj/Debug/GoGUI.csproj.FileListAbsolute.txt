@@ -1,0 +1,12 @@
+D:\SkyDrive\Documents\Term Docs\Intelligent Agents\Projects\FinalProject\FinalProject\GoGUI\bin\Debug\GoGUI.exe
+D:\SkyDrive\Documents\Term Docs\Intelligent Agents\Projects\FinalProject\FinalProject\GoGUI\bin\Debug\GoGUI.pdb
+D:\SkyDrive\Documents\Term Docs\Intelligent Agents\Projects\FinalProject\FinalProject\GoGUI\obj\Debug\GoGUI.csprojResolveAssemblyReference.cache
+D:\SkyDrive\Documents\Term Docs\Intelligent Agents\Projects\FinalProject\FinalProject\GoGUI\obj\Debug\MainWindow.baml
+D:\SkyDrive\Documents\Term Docs\Intelligent Agents\Projects\FinalProject\FinalProject\GoGUI\obj\Debug\MainWindow.g.cs
+D:\SkyDrive\Documents\Term Docs\Intelligent Agents\Projects\FinalProject\FinalProject\GoGUI\obj\Debug\App.g.cs
+D:\SkyDrive\Documents\Term Docs\Intelligent Agents\Projects\FinalProject\FinalProject\GoGUI\obj\Debug\GoGUI_MarkupCompile.cache
+D:\SkyDrive\Documents\Term Docs\Intelligent Agents\Projects\FinalProject\FinalProject\GoGUI\obj\Debug\GoGUI.g.resources
+D:\SkyDrive\Documents\Term Docs\Intelligent Agents\Projects\FinalProject\FinalProject\GoGUI\obj\Debug\GoGUI.Properties.Resources.resources
+D:\SkyDrive\Documents\Term Docs\Intelligent Agents\Projects\FinalProject\FinalProject\GoGUI\obj\Debug\GoGUI.csproj.GenerateResource.Cache
+D:\SkyDrive\Documents\Term Docs\Intelligent Agents\Projects\FinalProject\FinalProject\GoGUI\obj\Debug\GoGUI.exe
+D:\SkyDrive\Documents\Term Docs\Intelligent Agents\Projects\FinalProject\FinalProject\GoGUI\obj\Debug\GoGUI.pdb
